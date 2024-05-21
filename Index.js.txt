@@ -4,7 +4,10 @@ function a()
 }
  function b()
 {
+
 console.log("hi");
 }
 
 
+console.log("sum");
+}
